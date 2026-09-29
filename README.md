@@ -73,11 +73,13 @@ GET  /api/attendance/summary/{studentId}
 ## Screenshots
 
 ### Login Page
-![Login Page](Screenshots/login.png)
+![Login Page](Screenshots/Login.png)
 
-### Dashboard
-![Dashboard](Screenshots/TeacherDashboard.png)
-![Attendance Page](Screenshots/StudentDashboard.png)
+### Student Dashboard
+![Student Dashboard](Screenshots/Student%20Dashboard.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](Screenshots/Teacher%20Dashboard.png)
 
 ### Attendance History
-![Attendance Page](Screenshots/Attendancehistory.png)
+![Attendance History](Screenshots/Attendance%20history.png)
