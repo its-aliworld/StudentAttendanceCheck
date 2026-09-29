@@ -70,7 +70,6 @@ POST /api/attendance
 GET  /api/attendance/student/{studentId}
 GET  /api/attendance/summary/{studentId}
 
-For a classroom/demo project, this is intentionally straightforward. Change demo passwords and configure production security before deploying publicly.
-=======
-# StudentAttendanceCheck
->>>>>>> 30bf5e24201c8e5fab65541342520692fb9cd1fe
+## Screenshots
+
+
